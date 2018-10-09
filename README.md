@@ -40,9 +40,9 @@ $ npm run lint
 |   +-- components -> 全局组件目录
 |   |   +-- Component -> 组件
 |   |       +-- index.vue -> 组件模版文件
-|   |       +-- cell -> 组件下子组件文件夹
+|   |       +-- cell -> 组件下子组件文件夹
 |   |
-|   +-- router -> 路由配置
+|   +-- router -> 路由配置
 |   |   +-- fatherA -> 拥有子路由的页面A
 |   |   |   +--> index.js -> 页面A模块路由的配置
 |   |   +-- fatherB -> 拥有子路由的页面B
@@ -50,7 +50,7 @@ $ npm run lint
 |   |   |
 |   |   +-- index.js -> 各级路由的汇总配置
 |   |
-|   +-- store -> vuex配置
+|   +-- store -> vuex配置
 |   |   +-- modules -> vuex模块文件夹
 |   |   +-- index.js
 |   |
@@ -81,7 +81,7 @@ $ npm run lint
 |   |   |
 |   |   +-- index.vue -> Root 组件
 |   |
-|   +-- app.js -> 应用配置
+|   +-- app.js -> 应用配置
 |   |
 |   +-- index.js -> root
 |
