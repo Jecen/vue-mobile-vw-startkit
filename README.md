@@ -40,7 +40,7 @@ $ npm run lint
 |   +-- components -> 全局组件目录
 |   |   +-- Component -> 组件
 |   |       +-- index.vue -> 组件模版文件
-|   |       +-- cell -> 组件下子组件文件夹
+|   |       +-- cell -> 组件下子组件文件夹
 |   |
 |   +-- router -> 路由配置
 |   |   +-- fatherA -> 拥有子路由的页面A
